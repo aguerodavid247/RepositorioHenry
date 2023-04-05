@@ -1,2 +1,0 @@
-# repositoriohenry
-Repositorio de prueba
